@@ -1,0 +1,17 @@
+{
+    "workbench.editor.closeOnFileDelete": true,
+    "workbench.editor.autoLockGroups": {
+        "default": true,
+        "workbench.editor.chatSession": true,
+        "workbench.editorinputs.searchEditorInput": true,
+        "repl": true,
+        "workbench.editors.gettingStartedInput": true,
+        "jupyter-notebook": true
+    },
+    "workbench.editor.pinnedTabSizing": "compact",
+    "editor.fontFamily": "Hachi Maru Pop, cursive",
+    "editor.fontWeight": "normal",
+    "editor.fontSize": 18,
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.lineHeight": 1,
+}

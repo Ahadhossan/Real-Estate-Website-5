@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "formulahendry.auto-close-tag",
+        "steoates.autoimport",
+        "nucllear.vscode-extension-auto-import",
+        "esbenp.prettier-vscode",
+        "formulahendry.auto-complete-tag"
+    ]
+}
